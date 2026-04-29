@@ -1,0 +1,1 @@
+This repo will house all my documentation and progress in the learning of the programming language JavaScript.
